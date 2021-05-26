@@ -4,6 +4,6 @@ Freddy Vega tiene 32 años y bacio en Colombia
 
 Mañana nos enfocaremos en su vida laboral.
 
-Anita Platzi tiene 41 años y nacio en Internet
+Anita Platzi es una persona que contrinuye a este proyecto opensource y nacio en Internet
 
 probando el comando git rm --cache y --force
