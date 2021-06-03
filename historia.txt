@@ -9,3 +9,5 @@ Anita Platzi es una persona que contrinuye a este proyecto opensource y nacio en
 probando el comando git rm --cache y --force
 
 master 1
+
+Master 2
